@@ -14,7 +14,7 @@
 
 ### Live Application Back-End API 
 
-[![Live Demo Here](https://img.shields.io/badge/website-up-orange.svg)](https://github.com/divyanshu-rawat/Backend-For-JS-Promise-App))
+[![Live Demo Here](https://img.shields.io/badge/website-up-orange.svg)](https://github.com/divyanshu-rawat/Backend-For-JS-Promise-App)
 
 ##
 
